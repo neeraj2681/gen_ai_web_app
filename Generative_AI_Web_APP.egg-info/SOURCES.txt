@@ -1,0 +1,8 @@
+README.md
+setup.py
+Generative_AI_Web_APP.egg-info/PKG-INFO
+Generative_AI_Web_APP.egg-info/SOURCES.txt
+Generative_AI_Web_APP.egg-info/dependency_links.txt
+Generative_AI_Web_APP.egg-info/top_level.txt
+src/__init__.py
+src/helper.py
